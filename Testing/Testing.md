@@ -1,7 +1,7 @@
 ## Possible testing mechanisms
 
-1) Model of fetal pig
+1) Should use people of variety of different sizes/weight
 
-2) Ballistics jelly and clay
+2) Stress testing/tensile force/ automated (Apple phone testing style)
 
 3) ...
